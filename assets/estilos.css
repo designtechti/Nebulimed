@@ -20,7 +20,6 @@ header {
 	}
 
 	header > nav > a { 
-		border-right: 1px solid #2a526e;
 		display: inline-flex;
 		padding: 50px 5% 50px 5%;
 		color: #fff;
@@ -29,8 +28,7 @@ header {
 	}
 
 		header > nav > a:hover {
-			background-color: #00afef; 
-			border-right: 1px solid #2a526e;
+			border-right: 1px dotted #000;
 			display: inline-flex;
 			padding: 25px 5% 25px 5%;
 			color: #fff;
@@ -38,3 +36,49 @@ header {
 			text-decoration: none;
 		}		
 
+#conteudo {
+
+}		
+
+footer {
+	background-color: #2a2e33;
+	padding: 30px;
+	margin-top: 30px;
+	color: #61b7e8;
+}
+
+	footer > div > ul > li {
+		list-style-type: none;
+		color: #61b7e8;
+		display: flex;
+	}
+
+	footer > div > ul > li > a {
+		list-style-type: none;
+		color: #61b7e8;
+		text-decoration: none;
+	}
+
+	footer > div > ul > li > a:hover {
+		list-style-type: none;
+		color: #6e98a4;
+		text-decoration: none;
+	}
+
+	footer .copyright > a {
+		color: #fff;
+		text-decoration: none;
+		text-align: center;
+	}
+
+
+	footer .copyright > a:hover {
+		color: #6e98a4;		
+		text-decoration: none;
+		text-align: center;
+	}
+
+	footer > ul > li > iframe {
+		float: right;
+
+	}
