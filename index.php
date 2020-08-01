@@ -35,6 +35,9 @@
 				<div class="container">
 					<ul class="icons">
 						<li>
+							<h3>Contato</h3><br><br>
+						</li>
+						<li>
 							<a href="mailto:assistencia@nebulimed.com.br" class="icon fa-envelope-o">
 								<span class="label">Email: assistencia@nebulimed.com.br</span>
 							</a>
