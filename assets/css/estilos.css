@@ -1,0 +1,108 @@
+body {
+	background-color: #1c4665;
+	max-height: 720px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+	background-color: #356d92;
+	border-top: 5px solid #5399c3;
+	border-radius: 0 0 5px 5px;
+	width: 80%;
+	margin: auto;
+}
+
+	header > img {
+		width: 20%;
+		padding: 30px;
+		display: flex;
+		float: left;
+	}
+
+	header > nav > a { 
+		display: inline-flex;
+		padding: 50px 5% 50px 5%;
+		color: #fff;
+		list-style-type: none;
+		text-decoration: none;
+	}
+
+		header > nav > a:hover {
+			border-right: 1px dotted #000;
+			display: inline-flex;
+			padding: 25px 5% 25px 5%;
+			color: #fff;
+			list-style-type: none;
+			text-decoration: none;
+		}		
+
+#conteudo {
+	background-color: #bbb;
+	width: 80%; 
+	margin: auto;
+	border-left: 5px solid #5399c3;
+	border-radius: 5px 0 0 5px;
+}		
+
+.servicos{
+	background-image: url('images/aparelho-pressao.jpg');
+}
+	.servicos > h1 {
+		text-align: center;
+		padding: 25px;
+	}
+
+	.servicos > div {
+		background-image: url('aparelho.jpg');
+		display: inline-flex;
+	}
+		.servicos > div > h3, p {
+			width: 33.33%;
+			padding: 20px;
+			margin: 20px;
+			color: #808080;
+		}
+
+
+footer {
+	background-color: #2a2e33;
+	padding: 30px;
+	margin-top: 30px;
+	color: #61b7e8;
+}
+
+	footer > div > ul > li {
+		list-style-type: none;
+		color: #61b7e8;
+		display: flex;
+	}
+
+	footer > div > ul > li > a {
+		list-style-type: none;
+		color: #61b7e8;
+		text-decoration: none;
+	}
+
+	footer > div > ul > li > a:hover {
+		list-style-type: none;
+		color: #6e98a4;
+		text-decoration: none;
+	}
+
+	footer .copyright > a {
+		color: #fff;
+		text-decoration: none;
+		text-align: center;
+	}
+
+
+	footer .copyright > a:hover {
+		color: #6e98a4;		
+		text-decoration: none;
+		text-align: center;
+	}
+
+	footer > ul > li > iframe {
+		float: right;
+
+	}
