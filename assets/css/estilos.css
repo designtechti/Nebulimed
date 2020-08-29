@@ -1,15 +1,16 @@
 body {
 	background-color: #1c4665;
-	max-height: 720px;
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+/* CABEÇALHO */
 
 header {
 	background-color: #356d92;
 	border-top: 5px solid #5399c3;
 	border-radius: 0 0 5px 5px;
-	width: 80%;
 	margin: auto;
+	padding-bottom: 30px;
 }
 
 	header > img {
@@ -34,35 +35,57 @@ header {
 			color: #fff;
 			list-style-type: none;
 			text-decoration: none;
-		}		
+		}
+
+/* PRINCIPAL */
 
 #conteudo {
 	background-color: #bbb;
-	width: 80%; 
+	width: 95%; 
 	margin: auto;
 	border-left: 5px solid #5399c3;
 	border-radius: 5px 0 0 5px;
 }		
 
-.servicos{
-	background-image: url('images/aparelho-pressao.jpg');
-}
-	.servicos > h1 {
+	.servicos_banner {
+		background-image: url('../../images/aparelho-pressao.jpg');
+		padding: 50px;
+		margin: 30px 0 0;
 		text-align: center;
-		padding: 25px;
+		color: #4682B4;
+		text-shadow: 0.1em 0.1em #07A6F8;
 	}
 
-	.servicos > div {
-		background-image: url('aparelho.jpg');
-		display: inline-flex;
+	.servicos {
+		background-image: url('../../images/aparelho.jpg');
+		padding: 50px;
+		color: #fff;
 	}
-		.servicos > div > h3, p {
-			width: 33.33%;
-			padding: 20px;
-			margin: 20px;
-			color: #808080;
+
+		.servico {
+			width: 30%;
+			padding: 15px;
+			font-size: 15px;
 		}
 
+			.servico > img {
+				border: 1px solid #5399c3;
+				border-radius: 50px;
+				box-shadow: 3px 3px 5px 3px #1FEBE2;
+			}
+
+
+	.transparente {
+		background-color: rgba(0, 0, 0, 0.8);
+		padding: 25px;
+		border-radius: 5px;
+	}
+
+	.flex {
+		display: inline-block;
+	}
+
+/* RODAPÉ */
 
 footer {
 	background-color: #2a2e33;

@@ -24,9 +24,9 @@
 				<?php 
 					if (!empty($_GET['p']) && !empty($_GET['a'])) {
 						
-						include ('assets/includes/'.$_GET['p'].'/'.$_GET['a'].'.php');
+						include ('includes/'.$_GET['p'].'/'.$_GET['a'].'.php');
 					}else {
-						include('assets/includes/conteudo/inicio.php');
+						include('includes/conteudo/inicio.php');
 					}
 				?>
 			</div>
