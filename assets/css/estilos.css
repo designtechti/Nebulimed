@@ -129,3 +129,12 @@ footer {
 		float: right;
 
 	}
+
+	.icons {
+		display: inline-block;
+	}
+
+	.maps {
+		display: inline-block;
+		float: right;
+	}

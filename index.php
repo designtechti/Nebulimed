@@ -39,22 +39,22 @@
 						</li>
 						<li>
 							<a href="mailto:assistencia@nebulimed.com.br" class="icon fa-envelope-o">
-								<span class="label">Email: assistencia@nebulimed.com.br</span>
+								<span class="label">&#x1F4E9 	assistencia@nebulimed.com.br</span>
 							</a>
 						</li>
 						<li>
-							<span class="label">Telefone: (51) 3212-2748</span>
+							<span class="label">&#x260E	 (51) 3212-2748</span>
 						</li>
 						<li>
-							<span class="label">Endereço: Rua Doutor Flores, 105 - Sala 513 - Centro Histórico, Porto Alegre - RS, 90020-122</span>
+							<span class="label">&#x1F4CD	Rua Doutor Flores, 105 - Sala 513 - Centro Histórico, Porto Alegre - RS, 90020-122</span>
 						</li>
 						<li>
-							<span class="label">Horário de Funcionamento: 09:00hs às 18:00hs</span>
+							<span class="label">&#x23F1 	09:00hs às 18:00hs</span>
 						</li>
 					</ul>
-					<ul>
+					<ul class="maps">
 						<li>
-							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13817.21850093487!2d-51.2249635!3d-30.0281173!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd8ec788d048d09c6!2sNEBULIMED!5e0!3m2!1spt-BR!2sbr!4v1596049162384!5m2!1spt-BR!2sbr" width="25%" height="150%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13817.21850093487!2d-51.2249635!3d-30.0281173!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd8ec788d048d09c6!2sNEBULIMED!5e0!3m2!1spt-BR!2sbr!4v1596049162384!5m2!1spt-BR!2sbr" width="250%" height="150%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 						</li>
 					</ul>
 				</div>
