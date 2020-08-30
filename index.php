@@ -59,7 +59,7 @@
 					</ul>
 				</div>
 				<div class="copyright">
-					&copy; <a href="index.php">Nebulimed | Assistência Técnica Autorizada</a> . Todos os direitos reservados.
+				<a href="index.php">Nebulimed | Assistência Técnica Autorizada</a>	&copy; <?php echo date('Y') ?> . Desenvolvido por <a href="http://www.designtechti.com.br">Design Tech TI</a>
 				</div>
 			</footer>
 			</footer>
