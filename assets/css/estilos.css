@@ -47,7 +47,7 @@ header {
 	border-radius: 5px 0 0 5px;
 }		
 
-	.servicos_banner {
+	.home_banner {
 		background-image: url('../../images/aparelho-pressao.jpg');
 		padding: 50px;
 		margin: 30px 0 0;
@@ -56,7 +56,7 @@ header {
 		text-shadow: 0.1em 0.1em #07A6F8;
 	}
 
-	.servicos {
+	.fundo {
 		background-image: url('../../images/aparelho.jpg');
 		padding: 50px;
 		color: #fff;
@@ -79,6 +79,15 @@ header {
 		background-color: rgba(0, 0, 0, 0.8);
 		padding: 25px;
 		border-radius: 5px;
+	}
+
+	.tecnico {
+		display: inline-flex;
+		border-radius: 50%;
+		float: left;
+		width: 20%;
+		margin-right: 30px;
+		box-shadow: 3px 3px 3px 3px #1FEBE2;
 	}
 
 	.flex {

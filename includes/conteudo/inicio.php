@@ -1,7 +1,7 @@
-<div class="servicos_banner">
-	<h1>Serviços</h1>
+<div class="home_banner">
+	<h1>Home</h1>
 </div>
-<div class="servicos">
+<div class="fundo">
 	<div class="transparente">
 		<div class="servico flex">
 			<h3>Calibração de Aparelhos de Pressão</h3>
