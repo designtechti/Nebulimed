@@ -15,7 +15,7 @@
 				<nav>
 					<a href="index.php">HOME</a>
 					<a href="index.php?p=conteudo&a=empresa">EMPRESA</a>
-					<a href="index.php?p=conteudo&a=servicos">SERVIÇOS</a>
+					<a href="index.php?p=conteudo&a=autorizadas">AUTORIZADAS</a>
 					<a href="index.php?p=conteudo&a=contato">CONTATO</a>
 				</nav>		
 			</header>

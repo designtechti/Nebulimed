@@ -90,6 +90,20 @@ header {
 		box-shadow: 3px 3px 3px 3px #1FEBE2;
 	}
 
+	.autorizadas{
+		background-color: #fff;
+		border-radius: 50px;
+		margin: 20px;
+		padding: 20px;
+		box-shadow: 3px 3px 3px 3px #1FEBE2;
+		float: center;
+	}
+
+	#autorizadas {
+		margin: auto;
+		width: 80%;
+	}
+
 	.flex {
 		display: inline-block;
 	}
