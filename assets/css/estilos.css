@@ -104,6 +104,35 @@ header {
 		width: 80%;
 	}
 
+	#contato {
+		margin-left: 35%;
+		float: center;
+		margin-bottom: 50px;
+	}
+
+	.contato {
+		display: block;
+		float: left;
+		margin: 0 50px 50px 50px;
+	}
+
+		.contato > a {
+			text-decoration: none;
+			color: #fff;
+		}
+
+			.contato > a:hover {
+				text-decoration: none;
+				color: #1FEBE2;
+			}
+
+
+	.map {
+		display: inline;
+		border: 3px 3px 3px 3px solid #F1F1F1;
+		margin: 30px;
+	}
+		
 	.flex {
 		display: inline-block;
 	}
